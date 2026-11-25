@@ -1,6 +1,6 @@
 # SDV study
 
-Plan: 19 Oct 2026 to 23 May 2027 (re-dated 25 Nov 2026: week 2 restarts Mon 30 Nov, everything after moved 4 weeks). Tracker: https://mak-cell.github.io/sdv/
+Plan: 19 Oct 2026 to 16 May 2027. Weeks 0-1 done in Oct; re-dated 25 Nov 2026 so week 2 restarts Mon 23 Nov (day 1) and everything after moved 3 weeks. Tracker: https://mak-cell.github.io/sdv/
 
 ## Layout
 - `weeks/week-NN-topic/` one folder per week
